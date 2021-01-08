@@ -1,0 +1,151 @@
+{
+    "arcs": {},
+    "can_expand": false,
+    "junctions": {
+        "11226179-df03-48e1-b3ae-8ceebeb49e62": {
+            "position": [
+                3125000,
+                10000000
+            ]
+        },
+        "13f09fa0-0b96-4c4b-b258-f5454094966c": {
+            "position": [
+                3125000,
+                -10000000
+            ]
+        },
+        "b6818d43-7278-409b-8b44-04ef4eb9f28e": {
+            "position": [
+                -3125000,
+                10000000
+            ]
+        },
+        "d7dae4e8-882d-4f2f-9600-574dda98d35b": {
+            "position": [
+                -3125000,
+                -10000000
+            ]
+        }
+    },
+    "lines": {
+        "507fa9f5-4cf0-4866-beb7-05c595ec3686": {
+            "from": "b6818d43-7278-409b-8b44-04ef4eb9f28e",
+            "layer": 0,
+            "to": "11226179-df03-48e1-b3ae-8ceebeb49e62",
+            "width": 0
+        },
+        "867f5ce4-c51a-4607-bb9f-8df16b853667": {
+            "from": "11226179-df03-48e1-b3ae-8ceebeb49e62",
+            "layer": 0,
+            "to": "13f09fa0-0b96-4c4b-b258-f5454094966c",
+            "width": 0
+        },
+        "8f4feb92-9534-4a9c-ac94-87d35c04221d": {
+            "from": "d7dae4e8-882d-4f2f-9600-574dda98d35b",
+            "layer": 0,
+            "to": "b6818d43-7278-409b-8b44-04ef4eb9f28e",
+            "width": 0
+        },
+        "ea6ca50f-d541-4e8a-b786-b12430634155": {
+            "from": "13f09fa0-0b96-4c4b-b258-f5454094966c",
+            "layer": 0,
+            "to": "d7dae4e8-882d-4f2f-9600-574dda98d35b",
+            "width": 0
+        }
+    },
+    "name": "Eurorack Powerconnector",
+    "pins": {
+        "497e8ed4-47cb-414f-b1e3-140eabb53fae": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "name_visible": true,
+            "orientation": "right",
+            "pad_visible": false,
+            "position": [
+                5625000,
+                8750000
+            ]
+        },
+        "70e14ee4-35c8-4d16-a65d-021e3f6d7618": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "name_visible": true,
+            "orientation": "right",
+            "pad_visible": false,
+            "position": [
+                5625000,
+                -8750000
+            ]
+        },
+        "8f164a8c-32b7-4c48-8a00-b6413908eec0": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "name_visible": true,
+            "orientation": "right",
+            "pad_visible": false,
+            "position": [
+                5625000,
+                0
+            ]
+        }
+    },
+    "polygons": {},
+    "text_placements": {},
+    "texts": {
+        "7443bc1e-eccf-4fe1-8377-da3828b4699f": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -2500000,
+                    -13750000
+                ]
+            },
+            "size": 1500000,
+            "text": "$VALUE",
+            "width": 0
+        },
+        "b9dde897-f852-4190-99c6-870189ba136b": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -2500000,
+                    -11250000
+                ]
+            },
+            "size": 1500000,
+            "text": "$REFDES",
+            "width": 0
+        }
+    },
+    "type": "symbol",
+    "unit": "20008c63-0204-4f0c-b44a-6f6d41373606",
+    "uuid": "c0da7338-7424-4023-8c52-d12e23b8163c"
+}

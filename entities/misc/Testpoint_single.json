@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "03a7ba8f-e4b7-4a08-b682-f33027e4d6ee": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "d8237e60-ff4f-4fe8-b587-488d47d66b28"
+        }
+    },
+    "manufacturer": "",
+    "name": "Testpoint (single)",
+    "prefix": "TP",
+    "tags": [
+        "testpoint"
+    ],
+    "type": "entity",
+    "uuid": "4148b361-4984-4f79-8f42-d2a2b4b94d2d"
+}

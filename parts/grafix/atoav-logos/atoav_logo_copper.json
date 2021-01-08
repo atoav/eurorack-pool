@@ -1,0 +1,32 @@
+{
+    "MPN": [
+        false,
+        "Logo (copper)"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        ""
+    ],
+    "entity": "8a5c0e73-fce1-4339-acf6-31429f7147a0",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "b2bde4be-543d-4fd5-a435-39771930e959",
+    "pad_map": {},
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "ffc733dc-7a62-4a06-9516-2ad19b9b12e0",
+    "value": [
+        false,
+        ""
+    ]
+}

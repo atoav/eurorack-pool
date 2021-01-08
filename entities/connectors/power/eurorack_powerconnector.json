@@ -1,0 +1,21 @@
+{
+    "gates": {
+        "562d3d48-be96-4284-9d1f-588d83730c30": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "20008c63-0204-4f0c-b44a-6f6d41373606"
+        }
+    },
+    "manufacturer": "",
+    "name": "Eurorack Powerconnector",
+    "prefix": "J",
+    "tags": [
+        "connector",
+        "eurorack",
+        "power",
+        "split"
+    ],
+    "type": "entity",
+    "uuid": "5712a045-fee1-46b6-971a-1a51c8737457"
+}

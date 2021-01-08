@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "e02db11e-b4d1-46aa-824e-b0bb0421abd0": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "b55253a2-1704-44ff-9c34-bcdd1c2161ec"
+        }
+    },
+    "manufacturer": "",
+    "name": "Logo",
+    "prefix": "",
+    "tags": [
+        "grafix",
+        "logo"
+    ],
+    "type": "entity",
+    "uuid": "8a5c0e73-fce1-4339-acf6-31429f7147a0"
+}

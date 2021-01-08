@@ -1,0 +1,20 @@
+{
+    "manufacturer": "",
+    "name": "SMD Jumper",
+    "pins": {
+        "436d9714-4e1a-401b-a28b-94303352e785": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "B",
+            "swap_group": 0
+        },
+        "7f7b1a2c-f600-4b31-8215-df9aecbe8094": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "A",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "9eef3813-58a2-4116-8a59-0638bc1aafe1"
+}

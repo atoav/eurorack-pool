@@ -1,0 +1,77 @@
+{
+    "MPN": [
+        false,
+        "Eurorack Powerconnector 2x5 unkeyed white stripe"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "2x5 unkeyed eurorack Power Connector with white stripe"
+    ],
+    "entity": "5712a045-fee1-46b6-971a-1a51c8737457",
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "2b16e074-3a91-4dcd-8123-f0633af8ecef",
+    "package": "1e34c07a-357c-4977-a6e3-dea990e5cac3",
+    "pad_map": {
+        "196cb8f3-ae97-4b49-821e-97e3cc98b838": {
+            "gate": "562d3d48-be96-4284-9d1f-588d83730c30",
+            "pin": "8f164a8c-32b7-4c48-8a00-b6413908eec0"
+        },
+        "2e6bc052-8d0c-4b16-9b78-0d7817f1761d": {
+            "gate": "562d3d48-be96-4284-9d1f-588d83730c30",
+            "pin": "8f164a8c-32b7-4c48-8a00-b6413908eec0"
+        },
+        "45b50a2a-96fa-4d52-bc08-6f79e8e27ee9": {
+            "gate": "562d3d48-be96-4284-9d1f-588d83730c30",
+            "pin": "8f164a8c-32b7-4c48-8a00-b6413908eec0"
+        },
+        "467b028d-7eb9-4dd2-9895-07028ca87a41": {
+            "gate": "562d3d48-be96-4284-9d1f-588d83730c30",
+            "pin": "497e8ed4-47cb-414f-b1e3-140eabb53fae"
+        },
+        "483cb740-87e5-49ab-9c0c-48cc0a46de55": {
+            "gate": "562d3d48-be96-4284-9d1f-588d83730c30",
+            "pin": "8f164a8c-32b7-4c48-8a00-b6413908eec0"
+        },
+        "6518c4ad-9478-4f88-9688-567400519f4a": {
+            "gate": "562d3d48-be96-4284-9d1f-588d83730c30",
+            "pin": "8f164a8c-32b7-4c48-8a00-b6413908eec0"
+        },
+        "8bee57ee-687f-43e9-9731-5e301a5caf7f": {
+            "gate": "562d3d48-be96-4284-9d1f-588d83730c30",
+            "pin": "8f164a8c-32b7-4c48-8a00-b6413908eec0"
+        },
+        "8fabd603-a17b-489d-99b1-4bd8f8f02166": {
+            "gate": "562d3d48-be96-4284-9d1f-588d83730c30",
+            "pin": "70e14ee4-35c8-4d16-a65d-021e3f6d7618"
+        },
+        "b2d2d995-8430-4d9d-b59d-fe3bc1cd203f": {
+            "gate": "562d3d48-be96-4284-9d1f-588d83730c30",
+            "pin": "70e14ee4-35c8-4d16-a65d-021e3f6d7618"
+        },
+        "efc0dde0-d946-414e-aaf6-2417306406f3": {
+            "gate": "562d3d48-be96-4284-9d1f-588d83730c30",
+            "pin": "497e8ed4-47cb-414f-b1e3-140eabb53fae"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "connector",
+        "eurorack",
+        "power",
+        "unkeyed"
+    ],
+    "type": "part",
+    "uuid": "7a13a4ca-a0bf-4709-b063-75b84bd11939",
+    "value": [
+        false,
+        "2x5"
+    ]
+}

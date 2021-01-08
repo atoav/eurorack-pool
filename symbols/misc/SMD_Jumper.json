@@ -1,0 +1,206 @@
+{
+    "arcs": {},
+    "can_expand": false,
+    "junctions": {
+        "0bd15e66-2bab-42a9-a16c-649a364f0c9d": {
+            "position": [
+                2500000,
+                0
+            ]
+        },
+        "46ef6776-f2a6-4e2b-b779-7de652506c8c": {
+            "position": [
+                -2500000,
+                0
+            ]
+        },
+        "5148d5eb-b23c-4997-9020-9915c6fedfeb": {
+            "position": [
+                -2500000,
+                625000
+            ]
+        },
+        "78dd4526-8b24-449d-a025-c276ee981baa": {
+            "position": [
+                2500000,
+                625000
+            ]
+        },
+        "a226aaba-c315-454b-bc21-c7e7f1a5f9ec": {
+            "position": [
+                -250000,
+                1250000
+            ]
+        },
+        "a55d4af9-6a08-44af-a502-90497e7f2ccb": {
+            "position": [
+                250000,
+                -1250000
+            ]
+        },
+        "ae39c849-defb-44bc-861d-6ea1e8efba4e": {
+            "position": [
+                2500000,
+                -625000
+            ]
+        },
+        "ae58ec9b-11f9-4678-8991-cfa087dd830c": {
+            "position": [
+                250000,
+                1250000
+            ]
+        },
+        "d8050a61-a99b-4647-b981-ef6da2ac8420": {
+            "position": [
+                -2500000,
+                -625000
+            ]
+        },
+        "d8ebb1f4-ac59-4a72-8e52-174ec2835815": {
+            "position": [
+                -250000,
+                -1250000
+            ]
+        }
+    },
+    "lines": {
+        "26d0a12e-a0ae-4640-b91d-7f28041b87ef": {
+            "from": "78dd4526-8b24-449d-a025-c276ee981baa",
+            "layer": 0,
+            "to": "0bd15e66-2bab-42a9-a16c-649a364f0c9d",
+            "width": 0
+        },
+        "2f14e83c-641d-4d29-8953-c2291e973704": {
+            "from": "a55d4af9-6a08-44af-a502-90497e7f2ccb",
+            "layer": 0,
+            "to": "ae58ec9b-11f9-4678-8991-cfa087dd830c",
+            "width": 0
+        },
+        "529e2512-f7a8-4f94-843b-cebc6a73ca4a": {
+            "from": "d8050a61-a99b-4647-b981-ef6da2ac8420",
+            "layer": 0,
+            "to": "d8ebb1f4-ac59-4a72-8e52-174ec2835815",
+            "width": 0
+        },
+        "70ca4cf8-70dc-4214-ab01-b7d4c8f77b02": {
+            "from": "46ef6776-f2a6-4e2b-b779-7de652506c8c",
+            "layer": 0,
+            "to": "d8050a61-a99b-4647-b981-ef6da2ac8420",
+            "width": 0
+        },
+        "743b48b3-99ab-4cea-8c36-a2218e41f661": {
+            "from": "0bd15e66-2bab-42a9-a16c-649a364f0c9d",
+            "layer": 0,
+            "to": "ae39c849-defb-44bc-861d-6ea1e8efba4e",
+            "width": 0
+        },
+        "7c267c53-91ec-4155-a44c-9a5b9a5ca2b2": {
+            "from": "d8ebb1f4-ac59-4a72-8e52-174ec2835815",
+            "layer": 0,
+            "to": "a226aaba-c315-454b-bc21-c7e7f1a5f9ec",
+            "width": 0
+        },
+        "89620074-5497-4a6c-b2f8-9f9920c2403f": {
+            "from": "ae39c849-defb-44bc-861d-6ea1e8efba4e",
+            "layer": 0,
+            "to": "a55d4af9-6a08-44af-a502-90497e7f2ccb",
+            "width": 0
+        },
+        "9c71a3bb-b3bd-464b-8f31-0286727ebe99": {
+            "from": "ae58ec9b-11f9-4678-8991-cfa087dd830c",
+            "layer": 0,
+            "to": "78dd4526-8b24-449d-a025-c276ee981baa",
+            "width": 0
+        },
+        "b7fe6a13-44a7-4967-a445-6ef88e31a09f": {
+            "from": "5148d5eb-b23c-4997-9020-9915c6fedfeb",
+            "layer": 0,
+            "to": "46ef6776-f2a6-4e2b-b779-7de652506c8c",
+            "width": 0
+        },
+        "cf4e8e2c-c5b2-4c48-982c-cfc81947c5b6": {
+            "from": "a226aaba-c315-454b-bc21-c7e7f1a5f9ec",
+            "layer": 0,
+            "to": "5148d5eb-b23c-4997-9020-9915c6fedfeb",
+            "width": 0
+        }
+    },
+    "name": "SMD Jumper",
+    "pins": {
+        "436d9714-4e1a-401b-a28b-94303352e785": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "name_visible": true,
+            "orientation": "right",
+            "pad_visible": true,
+            "position": [
+                5000000,
+                0
+            ]
+        },
+        "7f7b1a2c-f600-4b31-8215-df9aecbe8094": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "name_visible": true,
+            "orientation": "left",
+            "pad_visible": true,
+            "position": [
+                -5000000,
+                0
+            ]
+        }
+    },
+    "polygons": {},
+    "text_placements": {},
+    "texts": {
+        "ab95c1ff-bc41-468e-aca3-c720c80c29a6": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    -2500000
+                ]
+            },
+            "size": 1500000,
+            "text": "$VALUE",
+            "width": 0
+        },
+        "baca47c3-4a8c-49c1-b52d-ce3d838217f3": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    2500000
+                ]
+            },
+            "size": 1500000,
+            "text": "$REFDES",
+            "width": 0
+        }
+    },
+    "type": "symbol",
+    "unit": "9eef3813-58a2-4116-8a59-0638bc1aafe1",
+    "uuid": "4a0c80d7-6e64-4622-8c59-e8d888c77c02"
+}

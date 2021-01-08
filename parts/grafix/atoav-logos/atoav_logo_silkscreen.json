@@ -1,0 +1,32 @@
+{
+    "MPN": [
+        false,
+        "Logo (silkscreen)"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        ""
+    ],
+    "entity": "8a5c0e73-fce1-4339-acf6-31429f7147a0",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "bef06ae2-6819-4539-8042-c973849e2dce",
+    "pad_map": {},
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "bd36382f-030c-4d79-a940-b94b6f0eac5f",
+    "value": [
+        false,
+        ""
+    ]
+}

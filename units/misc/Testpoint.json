@@ -1,0 +1,14 @@
+{
+    "manufacturer": "",
+    "name": "Testpoint",
+    "pins": {
+        "8c09d666-ea32-489a-8682-5ad06c409620": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "TP",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "d8237e60-ff4f-4fe8-b587-488d47d66b28"
+}

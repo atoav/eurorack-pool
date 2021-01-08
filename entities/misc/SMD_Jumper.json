@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "06de8d15-0ddd-4c00-b22d-b941f338584a": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "9eef3813-58a2-4116-8a59-0638bc1aafe1"
+        }
+    },
+    "manufacturer": "",
+    "name": "SMD Jumper",
+    "prefix": "J",
+    "tags": [
+        "testpoint"
+    ],
+    "type": "entity",
+    "uuid": "d1510a01-08ad-429f-af5a-5316c641abe4"
+}

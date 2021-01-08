@@ -1,0 +1,40 @@
+{
+    "MPN": [
+        false,
+        "Testpoint (round, 1mm)"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Testpoint with 1mm diameter"
+    ],
+    "entity": "4148b361-4984-4f79-8f42-d2a2b4b94d2d",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "09780d76-221f-465c-87ae-d240b8d929ec",
+    "pad_map": {
+        "a3201c27-93bf-4c5a-a91d-7afc00c1a1f4": {
+            "gate": "03a7ba8f-e4b7-4a08-b682-f33027e4d6ee",
+            "pin": "8c09d666-ea32-489a-8682-5ad06c409620"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "testpoint",
+        "tp"
+    ],
+    "type": "part",
+    "uuid": "2c89e1e5-ab72-4656-91cd-c5caeddc030e",
+    "value": [
+        false,
+        "TP"
+    ]
+}

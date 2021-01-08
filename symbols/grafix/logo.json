@@ -1,0 +1,31 @@
+{
+    "arcs": {},
+    "junctions": {},
+    "lines": {},
+    "name": "Logo",
+    "pins": {},
+    "polygons": {},
+    "text_placements": {},
+    "texts": {
+        "8b85de74-7894-4385-a366-579df33dc950": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -2500000,
+                    0
+                ]
+            },
+            "size": 1500000,
+            "text": "$RD\n",
+            "width": 0
+        }
+    },
+    "type": "symbol",
+    "unit": "b55253a2-1704-44ff-9c34-bcdd1c2161ec",
+    "uuid": "db8e4adc-329a-4204-a7a9-f79e048d9200"
+}

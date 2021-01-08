@@ -1,0 +1,30 @@
+{
+    "manufacturer": "",
+    "name": "Eurorack Powerconnector",
+    "pins": {
+        "497e8ed4-47cb-414f-b1e3-140eabb53fae": {
+            "direction": "power_input",
+            "names": [
+                "Vcc"
+            ],
+            "primary_name": "+12",
+            "swap_group": 1
+        },
+        "70e14ee4-35c8-4d16-a65d-021e3f6d7618": {
+            "direction": "power_input",
+            "names": [
+                "Vee"
+            ],
+            "primary_name": "-12",
+            "swap_group": 1
+        },
+        "8f164a8c-32b7-4c48-8a00-b6413908eec0": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "20008c63-0204-4f0c-b44a-6f6d41373606"
+}
